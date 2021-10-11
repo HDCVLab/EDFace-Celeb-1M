@@ -25,7 +25,7 @@ RDN: https://drive.google.com/drive/folders/1tvBcOqbxnVeeTpI966eKy0LQcDd8xpz_?us
 HAN: https://drive.google.com/drive/folders/1z4iOr2X0PLjEVz9ru7RxXbD7qXSFz1lN?usp=sharing
 ```
 
-__Methods__
+__Hallucination Methods__
 
 ```
 DIC: https://github.com/Maclory/Deep-Iterative-Collaboration
