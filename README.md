@@ -44,7 +44,7 @@ HAN: https://github.com/wwlCape/HAN
 If you think this work is useful for your research, please cite the following paper.
 
 ```
-@inproceedings{zhang2021benchmarking,
+@inproceedings{zhang2021edface,
   title={EDFace-Celeb-1M: Benchmarking Face Hallucination with a Million-scale Dataset},
   author={Zhang, Kaihao and Li, Dongxu and Luo, Wenhan and Liu, Jingyu and Deng, Jiankang and Liu, Wei and Stefanos Zafeiriou},
   booktitle={Arxiv},
