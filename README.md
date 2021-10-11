@@ -4,7 +4,7 @@
 
 
 
-__Datasets (HR-LR)__
+__EDFace-Celeb-1M Datasets (HR-LR)__
 
 ```
 Non-aligned: https://drive.google.com/drive/folders/1MAQF1fuhfN_TwrSP2_HRsYzwkNgk3Pqu?usp=sharing
