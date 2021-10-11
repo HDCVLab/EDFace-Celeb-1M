@@ -34,7 +34,7 @@ HiFaceGAN: https://github.com/Lotayou/Face-Renovation
 Wavelet: https://github.com/hhb072/WaveletSRNet
 EDSR: https://github.com/sanghyun-son/EDSR-PyTorch
 RCAN: https://github.com/yulunzhang/RCAN
-RDN: https://github.com/yjn870/RDN-pytorch
+RDN: https://github.com/yulunzhang/RDN
 HAN: https://github.com/wwlCape/HAN
 ```
 
