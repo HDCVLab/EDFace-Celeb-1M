@@ -4,7 +4,7 @@
 
 
 
-__Datasets (HR-LR) __
+__Datasets (HR-LR)__
 
 ```
 Non-aligned: https://drive.google.com/drive/folders/1MAQF1fuhfN_TwrSP2_HRsYzwkNgk3Pqu?usp=sharing
@@ -13,7 +13,7 @@ Real LR Images: https://drive.google.com/file/d/1HAAQf7iexARQsPmW8Zeuo8FojBC86yG
 ```
 
 
-__Benchmarking Results (HR-LR) __
+__Benchmarking Results (HR-LR)__
 
 ```
 DIC: https://drive.google.com/drive/folders/12K6V16MXz9Qupuh44cua-2scrAxM1GWV?usp=sharing
