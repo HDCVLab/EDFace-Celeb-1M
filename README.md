@@ -4,7 +4,7 @@
 
 
 
-__EDFace-Celeb-1M Datasets (HR-LR)__
+__EDFace-Celeb-1M Datasets (LR-HR)__
 
 ```
 Non-aligned: https://drive.google.com/drive/folders/1MAQF1fuhfN_TwrSP2_HRsYzwkNgk3Pqu?usp=sharing
@@ -12,7 +12,7 @@ Align: https://drive.google.com/drive/folders/15VkFMZtKQpCFRfgXL5YJc8GB8Q2qj_Fn?
 Real LR Images: https://drive.google.com/file/d/1HAAQf7iexARQsPmW8Zeuo8FojBC86yGY/view?usp=sharing
 ```
 
-__Benchmarking Results (HR-LR)__
+__Benchmarking Results (LR->SR)__
 
 ```
 DIC: https://drive.google.com/drive/folders/12K6V16MXz9Qupuh44cua-2scrAxM1GWV?usp=sharing
