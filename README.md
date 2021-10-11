@@ -12,7 +12,7 @@ Align: https://drive.google.com/drive/folders/15VkFMZtKQpCFRfgXL5YJc8GB8Q2qj_Fn?
 Real LR Images: https://drive.google.com/file/d/1HAAQf7iexARQsPmW8Zeuo8FojBC86yGY/view?usp=sharing
 ```
 
-__Benchmarking Results (LR->SR)__
+__Benchmarking Results (X2, X4, X4_BD, X4_DN, X8)__
 
 ```
 DIC: https://drive.google.com/drive/folders/12K6V16MXz9Qupuh44cua-2scrAxM1GWV?usp=sharing
