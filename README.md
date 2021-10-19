@@ -47,7 +47,7 @@ If you think this work is useful for your research, please cite the following pa
 @inproceedings{zhang2021edface,
   title={EDFace-Celeb-1M: Benchmarking Face Hallucination with a Million-scale Dataset},
   author={Zhang, Kaihao and Li, Dongxu and Luo, Wenhan and Liu, Jingyu and Deng, Jiankang and Liu, Wei and Stefanos Zafeiriou},
-  booktitle={Arxiv},
+  booktitle={arXiv preprint arXiv:2110.05031},
   year={2021}
 }
 ```
