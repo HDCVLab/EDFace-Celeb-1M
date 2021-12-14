@@ -50,7 +50,7 @@ Test:
 
 ****
 
-__EDFace-Celeb-512 Dataset: Face Hallucination (HR, LR: X2, X4, X4_BD, X4_DN, X8) (Align)__
+__EDFace-Celeb-150K Dataset: Face Hallucination (HR, LR: X2, X4, X4_BD, X4_DN, X8) (Align)__
 
 ```
 Train:
@@ -59,7 +59,7 @@ Test:
 
 ****
 
-__EDFace-Celeb-512 Dataset: Face Restoration (HQ, LQ: Blur, JPEG artifact, Noise, X8, Full_X2, Full_X4, Full_X8) (Align)__
+__EDFace-Celeb-150K Dataset: Face Restoration (HQ, LQ: Blur, JPEG artifact, Noise, X8, Full_X2, Full_X4, Full_X8) (Align)__
 
 ```
 Train:
