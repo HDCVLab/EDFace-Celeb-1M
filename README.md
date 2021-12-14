@@ -4,7 +4,7 @@
 
 
 
-__EDFace-Celeb-1M Datasets (HR, LR: X2, X4, X4_BD, X4_DN, X8)__
+__EDFace-Celeb-1M Dataset (HR, LR: X2, X4, X4_BD, X4_DN, X8)__
 
 ```
 Non-aligned: https://drive.google.com/drive/folders/1MAQF1fuhfN_TwrSP2_HRsYzwkNgk3Pqu?usp=sharing
@@ -38,7 +38,7 @@ RDN: https://github.com/yulunzhang/RDN
 HAN: https://github.com/wwlCape/HAN
 ```
 
-__EDFace-Celeb-512 Datasets (HR, LR: X2, X4, X4_BD, X4_DN, X8)__
+__EDFace-Celeb-512 Dataset (HR, LR: X2, X4, X4_BD, X4_DN, X8)__
 
 ```
 HR:
