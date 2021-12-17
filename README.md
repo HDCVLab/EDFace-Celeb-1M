@@ -7,7 +7,6 @@
 __EDFace-Celeb-1M Dataset: Face Hallucination (HR, LR: X2, X4, X4_BD, X4_DN, X8)__
 
 ```
-Non-aligned: https://drive.google.com/drive/folders/1MAQF1fuhfN_TwrSP2_HRsYzwkNgk3Pqu?usp=sharing
 Align: https://drive.google.com/drive/folders/15VkFMZtKQpCFRfgXL5YJc8GB8Q2qj_Fn?usp=sharing
 Real LR Images: https://drive.google.com/file/d/1HAAQf7iexARQsPmW8Zeuo8FojBC86yGY/view?usp=sharing
 ```
