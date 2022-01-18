@@ -40,7 +40,7 @@ HAN: https://github.com/wwlCape/HAN
 
 ****
 
-__EDFace-Celeb-1M Dataset: Face Restoration (HQ, LQ: Blur, JPEG artifact, Noise, SR, Full, Full_X2, Full_X4, Full_X8) __
+__EDFace-Celeb-1M Dataset: Face Restoration (HQ, LQ: Blur, JPEG artifact, Noise, SR, Full, Full_X2, Full_X4, Full_X8)__
 
 ```
 Train:
@@ -58,7 +58,7 @@ Test:
 
 ****
 
-__EDFace-Celeb-150K Dataset: Face Restoration (HQ, LQ: Blur, JPEG artifact, Noise, SR, Full, Full_X2, Full_X4, Full_X8) __
+__EDFace-Celeb-150K Dataset: Face Restoration (HQ, LQ: Blur, JPEG artifact, Noise, SR, Full, Full_X2, Full_X4, Full_X8)__
 
 ```
 Train:
