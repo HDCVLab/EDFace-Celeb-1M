@@ -41,7 +41,7 @@ HAN: https://github.com/wwlCape/HAN
 
 ****
 
-__EDFace-Celeb-1M-BFR128 Dataset: Blind Face Restoration (HQ, LQ: Blur, JPEG artifact, Noise, SR, Full, Full_X2, Full_X4, Full_X8)__
+__EDFace-Celeb-1M Dataset: Blind Face Restoration (HQ, LQ: Blur, JPEG artifact, Noise, SR, Full, Full_X2, Full_X4, Full_X8)__
 
 ```
 Train:
