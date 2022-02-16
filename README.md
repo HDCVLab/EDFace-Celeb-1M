@@ -59,7 +59,7 @@ Test:
 
 ****
 
-__EDFace-Celeb-150K-BFR512 Dataset: Blind Face Restoration (HQ, LQ: Blur, JPEG artifact, Noise, SR, Full, Full_X2, Full_X4, Full_X8)__
+__EDFace-Celeb-150K Dataset: Blind Face Restoration (HQ, LQ: Blur, JPEG artifact, Noise, SR, Full, Full_X2, Full_X4, Full_X8)__
 
 ```
 Train:
