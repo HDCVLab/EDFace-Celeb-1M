@@ -1,6 +1,6 @@
 
 
-# EDFace-Celeb-1M: Benchmarking Face Hallucination with a Million-scale Dataset
+# EDFace-Celeb-1M: Benchmarking Face Hallucination with a Million-scale Dataset (TPAMI2022)
 
 
 
@@ -86,5 +86,7 @@ If you think this work is useful for your research, please cite the following pa
   year={2022}
 }
 ```
+
+
 
 
