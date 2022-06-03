@@ -4,6 +4,12 @@
 
 
 
+### License
+
+The EDFACE-Celeb-1M dataset is released under CC BY-NC-ND license.
+
+
+
 __EDFace-Celeb-1M (FH128): Face Hallucination (HR, LR: X2, X4, X4_BD, X4_DN, X8)__
 
 ```
