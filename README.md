@@ -4,13 +4,13 @@
 
 
 
-### License
+## License
 
 The EDFACE-Celeb-1M dataset is released under CC BY-NC-ND license.
 
 
 
-__EDFace-Celeb-1M (FH128): Face Hallucination (HR, LR: X2, X4, X4_BD, X4_DN, X8)__
+## EDFace-Celeb-1M (FH128): Face Hallucination (HR, LR: X2, X4, X4_BD, X4_DN, X8)
 
 ```
 Train:
@@ -18,7 +18,7 @@ Test: https://drive.google.com/drive/folders/1fGJgTtN0PGYk0ePTkz-C5Tc9PKotjJWf?u
 Real LR Images: 
 ```
 
-__Benchmarking Results (X2, X4, X4_BD, X4_DN, X8)__
+### Benchmarking Results (X2, X4, X4_BD, X4_DN, X8)
 
 ```
 DIC: https://drive.google.com/drive/folders/12K6V16MXz9Qupuh44cua-2scrAxM1GWV?usp=sharing
@@ -31,7 +31,7 @@ RDN: https://drive.google.com/drive/folders/1tvBcOqbxnVeeTpI966eKy0LQcDd8xpz_?us
 HAN: https://drive.google.com/drive/folders/1z4iOr2X0PLjEVz9ru7RxXbD7qXSFz1lN?usp=sharing
 ```
 
-__Hallucination Methods__
+### Hallucination Methods
 
 ```
 DIC: https://github.com/Maclory/Deep-Iterative-Collaboration
@@ -47,7 +47,7 @@ HAN: https://github.com/wwlCape/HAN
 
 ****
 
-__EDFace-Celeb-1M (BFR128) : Blind Face Restoration (HQ, LQ: Blur, JPEG artifact, Noise, SR, Full, Full_X2, Full_X4, Full_X8)__
+## EDFace-Celeb-1M (BFR128) : Blind Face Restoration (HQ, LQ: Blur, JPEG artifact, Noise, SR, Full, Full_X2, Full_X4, Full_X8)
 
 ```
 Train:
@@ -56,7 +56,7 @@ Test:
 
 ****
 
-__EDFace-Celeb-150K (FH512) : Face Hallucination (HR, LR: X2, X4, X4_BD, X4_DN, X8)__
+## EDFace-Celeb-150K (FH512) : Face Hallucination (HR, LR: X2, X4, X4_BD, X4_DN, X8)
 
 ```
 Train:
@@ -65,7 +65,7 @@ Test:
 
 ****
 
-__EDFace-Celeb-150K (BFR512): Blind Face Restoration (HQ, LQ: Blur, JPEG artifact, Noise, SR, Full, Full_X2, Full_X4, Full_X8)__
+## EDFace-Celeb-150K (BFR512): Blind Face Restoration (HQ, LQ: Blur, JPEG artifact, Noise, SR, Full, Full_X2, Full_X4, Full_X8)
 
 ```
 Train:
@@ -82,8 +82,8 @@ If you think this work is useful for your research, please cite the following pa
 @inproceedings{zhang2021edface,
   title={EDFace-Celeb-1M: Benchmarking Face Hallucination with a Million-scale Dataset},
   author={Zhang, Kaihao and Li, Dongxu and Luo, Wenhan and Liu, Jingyu and Deng, Jiankang and Liu, Wei and Stefanos Zafeiriou},
-  booktitle={arXiv preprint arXiv:2110.05031},
-  year={2021}
+  booktitle={IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)},
+  year={2022}
 }
 ```
 
