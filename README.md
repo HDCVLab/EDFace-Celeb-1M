@@ -47,7 +47,9 @@ HAN: https://github.com/wwlCape/HAN
 
 ****
 
-## EDFace-Celeb-1M (BFR128) : Blind Face Restoration (HQ, LQ: Blur, JPEG artifact, Noise, SR, Full, Full_X2, Full_X4, Full_X8)
+
+
+## EDFace-Celeb-150K (FH512) : Face Hallucination (HR, LR: X2, X4, X4_BD, X4_DN, X8)
 
 ```
 Train:
@@ -56,7 +58,8 @@ Test:
 
 ****
 
-## EDFace-Celeb-150K (FH512) : Face Hallucination (HR, LR: X2, X4, X4_BD, X4_DN, X8)
+
+## EDFace-Celeb-1M (BFR128) : Blind Face Restoration (HQ, LQ: Blur, JPEG artifact, Noise, SR, Full, Full_X2, Full_X4, Full_X8)
 
 ```
 Train:
