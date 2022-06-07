@@ -76,7 +76,7 @@ Test:
 
 
 ## Citation
-If you think this work is useful for your research, please cite the following paper.
+If you think the EDFace-Celeb dataset is useful for your research, please cite the following paper.
 
 ```
 @inproceedings{zhang2021edface,
