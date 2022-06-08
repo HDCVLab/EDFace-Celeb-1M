@@ -12,7 +12,7 @@ The EDFace-Celeb dataset is released under CC BY-NC-ND license.
 ## Our propsoed EDFace-Celeb Dataset
 
 
-We construct a large-scale dataset for face hallucination and face restoration. It consists of two sub-datasets, i.e., EDFace-Celeb-1M and EDFace-Celeb-150K datasets. 
+We construct a large-scale EDFace-Celeb dataset for face hallucination and face restoration. It consists of two sub-datasets, i.e., EDFace-Celeb-1M and EDFace-Celeb-150K datasets. Each of the sub-datasets provides different settings for face hallucination (FH) and blind face restoration (BFR).
 
 
 ****
@@ -30,14 +30,14 @@ We construct a large-scale dataset for face hallucination and face restoration. 
 
 #### Benchmarking Results (X2, X4, X4_BD, X4_DN, X8)
 
-[DIC](https://github.com/Maclory/Deep-Iterative-Collaboration): [Results](https://drive.google.com/drive/folders/12K6V16MXz9Qupuh44cua-2scrAxM1GWV?usp=sharing)
-[DIC-GAN](https://github.com/Maclory/Deep-Iterative-Collaboration): [Results](https://drive.google.com/drive/folders/1x827RaupFu3TJ2XcGZQTWL9Cb0lMMIaT?usp=sharing)
-[HiFaceGAN](https://github.com/Lotayou/Face-Renovation): [Results](https://drive.google.com/drive/folders/171ea1cR9zpPqVYZKlbfe4VvxPdgfALtC?usp=sharing)
-[Wavelet](https://github.com/hhb072/WaveletSRNet): [Results](https://drive.google.com/drive/folders/18wkbvIXwoNZZGYChkDmIFg5J8ObLF4v4?usp=sharing)
-[EDSR](https://github.com/sanghyun-son/EDSR-PyTorch): [Results](https://drive.google.com/drive/folders/1_663t2DSEoWZHFqEWIPu2fjUKNs0o9N5?usp=sharing)
-[RCAN](https://github.com/yulunzhang/RCAN): [Results](https://drive.google.com/drive/folders/1CAkw8qQUOkINErAkBog9VwJoaOPdtQJy?usp=sharing)
-[RDN](https://github.com/yulunzhang/RDN): [Results](https://drive.google.com/drive/folders/1tvBcOqbxnVeeTpI966eKy0LQcDd8xpz_?usp=sharing)
-[HAN](https://github.com/wwlCape/HAN): [Results](https://drive.google.com/drive/folders/1z4iOr2X0PLjEVz9ru7RxXbD7qXSFz1lN?usp=sharing)
+- [DIC](https://github.com/Maclory/Deep-Iterative-Collaboration): [Results](https://drive.google.com/drive/folders/12K6V16MXz9Qupuh44cua-2scrAxM1GWV?usp=sharing)
+- [DIC-GAN](https://github.com/Maclory/Deep-Iterative-Collaboration): [Results](https://drive.google.com/drive/folders/1x827RaupFu3TJ2XcGZQTWL9Cb0lMMIaT?usp=sharing)
+- [HiFaceGAN](https://github.com/Lotayou/Face-Renovation): [Results](https://drive.google.com/drive/folders/171ea1cR9zpPqVYZKlbfe4VvxPdgfALtC?usp=sharing)
+- [Wavelet](https://github.com/hhb072/WaveletSRNet): [Results](https://drive.google.com/drive/folders/18wkbvIXwoNZZGYChkDmIFg5J8ObLF4v4?usp=sharing)
+- [EDSR](https://github.com/sanghyun-son/EDSR-PyTorch): [Results](https://drive.google.com/drive/folders/1_663t2DSEoWZHFqEWIPu2fjUKNs0o9N5?usp=sharing)
+- [RCAN](https://github.com/yulunzhang/RCAN): [Results](https://drive.google.com/drive/folders/1CAkw8qQUOkINErAkBog9VwJoaOPdtQJy?usp=sharing)
+- [RDN](https://github.com/yulunzhang/RDN): [Results](https://drive.google.com/drive/folders/1tvBcOqbxnVeeTpI966eKy0LQcDd8xpz_?usp=sharing)
+- [HAN](https://github.com/wwlCape/HAN): [Results](https://drive.google.com/drive/folders/1z4iOr2X0PLjEVz9ru7RxXbD7qXSFz1lN?usp=sharing)
 
 
 
