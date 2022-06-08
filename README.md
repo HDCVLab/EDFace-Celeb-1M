@@ -12,7 +12,7 @@ The EDFace-Celeb dataset is released under CC BY-NC-ND license.
 ## Our propsoed EDFace-Celeb Dataset
 
 
-We construct a large-scale EDFace-Celeb dataset for face hallucination and face restoration. It consists of two sub-datasets, i.e., EDFace-Celeb-1M and EDFace-Celeb-150K datasets. Each of the sub-datasets provides different settings for face hallucination (FH) and blind face restoration (BFR).
+We construct a large-scale EDFace-Celeb dataset for face analysis. It consists of two sub-datasets, i.e., EDFace-Celeb-1M and EDFace-Celeb-150K datasets. Each of the sub-datasets provides different settings for face hallucination (FH) and blind face restoration (BFR).
 
 
 ****
