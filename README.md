@@ -25,7 +25,7 @@ We construct a large-scale EDFace-Celeb dataset for face analysis. It consists o
 - [Baidu Cloud](https://pan.baidu.com/s/1MnXxwjEYoB6wiTxB5o7IQQ) (password: s5a7)
 
 #### Citation:
-- [EDFace-Celeb-1M: Benchmarking Face Hallucination with a Million-scale Dataset (TPAMI2022)](https://arxiv.org/pdf/2110.05031.pdf)
+- [EDFace-Celeb-1M: Benchmarking Face Hallucination with a Million-scale Dataset (TPAMI2022)](https://arxiv.org/abs/2110.05031)
 
 
 #### Benchmarking Results (X2, X4, X4_BD, X4_DN, X8)
@@ -48,7 +48,7 @@ We construct a large-scale EDFace-Celeb dataset for face analysis. It consists o
 - [Baidu Cloud](https://pan.baidu.com/s/17N-FOJPErKvYKSTlVVThwQ) (password:8z3b)
 
 #### Citation:
-- [EDFace-Celeb-1M: Benchmarking Face Hallucination with a Million-scale Dataset (TPAMI2022)](https://arxiv.org/pdf/2110.05031.pdf)
+- [EDFace-Celeb-1M: Benchmarking Face Hallucination with a Million-scale Dataset (TPAMI2022)](https://arxiv.org/abs/2110.05031)
 
 ****
 
@@ -60,8 +60,8 @@ We construct a large-scale EDFace-Celeb dataset for face analysis. It consists o
 - [Baidu Cloud](https://pan.baidu.com/s/1JZoDmluwBT2OiLt-OGSxPQ) (password:yjfz)
 
 #### Citation:
-- [EDFace-Celeb-1M: Benchmarking Face Hallucination with a Million-scale Dataset (TPAMI2022)](https://arxiv.org/pdf/2110.05031.pdf)
-- [Blind Face Restoration: Benchmark Datasets and a Baseline Model]()
+- [EDFace-Celeb-1M: Benchmarking Face Hallucination with a Million-scale Dataset (TPAMI2022)](https://arxiv.org/abs/2110.05031)
+- [Blind Face Restoration: Benchmark Datasets and a Baseline Model](https://arxiv.org/abs/2206.03697)
 
 
 
@@ -73,8 +73,8 @@ We construct a large-scale EDFace-Celeb dataset for face analysis. It consists o
 - [Baidu Cloud](https://pan.baidu.com/s/1PzPkZUZxDTCgIIfIGixZiA) (password:67it)
 
 #### Citation:
-- [EDFace-Celeb-1M: Benchmarking Face Hallucination with a Million-scale Dataset (TPAMI2022)](https://arxiv.org/pdf/2110.05031.pdf)
-- [Blind Face Restoration: Benchmark Datasets and a Baseline Model]()
+- [EDFace-Celeb-1M: Benchmarking Face Hallucination with a Million-scale Dataset (TPAMI2022)](https://arxiv.org/abs/2110.05031)
+- [Blind Face Restoration: Benchmark Datasets and a Baseline Model](https://arxiv.org/abs/2206.03697)
 
 
 ****
