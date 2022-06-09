@@ -6,7 +6,7 @@
 
 ## License
 
-The EDFace-Celeb dataset is released under CC BY-NC-ND license.
+The EDFace-Celeb dataset is released under [CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/) license.
 
 
 ## Our propsoed EDFace-Celeb Dataset
