@@ -84,7 +84,7 @@ We construct a large-scale EDFace-Celeb dataset for face analysis. It consists o
 If you think the EDFace-Celeb dataset is useful for your research, please cite the following paper.
 
 ```
-@inproceedings{zhang2021edface,
+@inproceedings{zhang2022edface,
   title={EDFace-Celeb-1M: Benchmarking Face Hallucination with a Million-scale Dataset},
   author={Zhang, Kaihao and Li, Dongxu and Luo, Wenhan and Liu, Jingyu and Deng, Jiankang and Liu, Wei and Stefanos Zafeiriou},
   booktitle={IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)},
