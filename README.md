@@ -3,7 +3,9 @@
 # EDFace-Celeb-1M: Benchmarking Face Hallucination with a Million-scale Dataset (TPAMI2022)
 
 
+## Homepage
 
+We add the homepage of our dataset, you can visit [here](https://zhangkaihao.github.io/projects/EDface/).
 ## License
 
 The EDFace-Celeb dataset is released under [CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/) license.
