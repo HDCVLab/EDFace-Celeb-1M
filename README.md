@@ -19,7 +19,7 @@ We construct a large-scale dataset for face analysis. It consists of three sub-d
 
 ****
 
-## EDFace-Celeb-Realwold: Real-world low-resolution face images.
+## EDFace-Celeb-Real: Real-world low-resolution face images.
 
 
 #### Download
