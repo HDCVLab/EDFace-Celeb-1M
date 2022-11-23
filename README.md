@@ -11,13 +11,20 @@ We add the homepage of our dataset, you can visit [here](https://zhangkaihao.git
 The EDFace-Celeb dataset is released under [CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/) license.
 
 
-## Our propsoed EDFace-Celeb Dataset
+## Our propsoed EDFace-Celeb-1M Dataset
 
 
-We construct a large-scale EDFace-Celeb dataset for face analysis. It consists of two sub-datasets, i.e., EDFace-Celeb-1M and EDFace-Celeb-150K datasets. Each of the sub-datasets provides different settings for face super-resolution (FH128, FH512), face hallucination (FH128, FH512) and blind face restoration (BFR128, BFR512).
+We construct a large-scale dataset for face analysis. It consists of three sub-datasets, i.e., EDFace-Celeb-1M, EDFace-Celeb-150K and EDFace-Celeb-Realworld datasets. Each of the sub-datasets provides different settings for face super-resolution (FH128, FH512), face hallucination (FH128, FH512) and blind face restoration (BFR128, BFR512).
 
 
 ****
+
+## EDFace-Celeb-Realwold: Real-world low-resolution face images.
+
+
+#### Download
+- [Google Drive]()
+- [Baidu Cloud]()
 
 ## EDFace-Celeb-1M (FH128): Face Hallucination (HR, LR: X2, X4, X4_BD, X4_DN, X8)
 
