@@ -14,7 +14,7 @@ The EDFace-Celeb dataset is released under [CC BY-NC-ND](https://creativecommons
 ## Our propsoed EDFace-Celeb-1M Dataset
 
 
-We construct a large-scale dataset for face analysis. It consists of three sub-datasets, i.e., EDFace-Celeb-1M, EDFace-Celeb-150K and EDFace-Celeb-Realworld datasets. Each of the sub-datasets provides different settings for face super-resolution (FH128, FH512), face hallucination (FH128, FH512) and blind face restoration (BFR128, BFR512).
+We construct a large-scale dataset for face analysis. It consists of three sub-datasets, i.e., EDFace-Celeb-1M, EDFace-Celeb-150K and EDFace-Celeb-Real datasets. The EDFace-Celeb-1M and EDFace-Celeb-150K datasets provide different settings for face super-resolution (FH128, FH512), face hallucination (FH128, FH512) and blind face restoration (BFR128, BFR512).
 
 
 ****
