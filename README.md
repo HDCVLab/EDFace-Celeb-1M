@@ -23,15 +23,15 @@ We construct a large-scale dataset for face analysis. It consists of three sub-d
 
 
 #### Download
-- [Google Drive]()
-- [Baidu Cloud]()
+- [Google Drive](https://drive.google.com/file/d/1FSnuDTMiF2Cossa-TQQPy2PDoiuPm8Mi/view?usp=sharing)
+- [Baidu Cloud](https://pan.baidu.com/s/1pmBOSKugliwgruNGrIXHhQ?pwd=sw6b)
 
 ## EDFace-Celeb-1M (FH128): Face Hallucination (HR, LR: X2, X4, X4_BD, X4_DN, X8)
 
 
 #### Download
-- [Google Drive](https://drive.google.com/drive/folders/15VkFMZtKQpCFRfgXL5YJc8GB8Q2qj_Fn?usp=sharing)
-- [Baidu Cloud](https://pan.baidu.com/s/1MnXxwjEYoB6wiTxB5o7IQQ) (password: s5a7)
+- [Google Drive](https://drive.google.com/drive/folders/1-WdxQHHjKbNvRZkE6ZJ4lNSKzz5Xt-TD?usp=sharing)
+- [Baidu Cloud](https://pan.baidu.com/s/190rUPBbuDYo9sfa5sovAkA?pwd=dl9g)
 
 #### Citation:
 - [EDFace-Celeb-1M: Benchmarking Face Hallucination with a Million-scale Dataset (TPAMI2022)](https://arxiv.org/abs/2110.05031)
@@ -53,8 +53,8 @@ We construct a large-scale dataset for face analysis. It consists of three sub-d
 ## EDFace-Celeb-150K (FH512) : Face Hallucination (HR, LR: X2, X4, X4_BD, X4_DN, X8)
 
 #### Download
-- [Google Drive](https://drive.google.com/drive/folders/1YELx5WtV-A1i8WSVrWhKLzi78KQ7tlty?usp=sharing)
-- [Baidu Cloud](https://pan.baidu.com/s/17N-FOJPErKvYKSTlVVThwQ) (password:8z3b)
+- [Google Drive](https://drive.google.com/drive/folders/1YELx5WtV-A1i8WSVrWhKLzi78KQ7tlty?usp=sharingg)
+- [Baidu Cloud](https://pan.baidu.com/s/1eMz69rsnUH6FisHdAfm9vw?pwd=4nqj) 
 
 #### Citation:
 - [EDFace-Celeb-1M: Benchmarking Face Hallucination with a Million-scale Dataset (TPAMI2022)](https://arxiv.org/abs/2110.05031)
@@ -65,8 +65,8 @@ We construct a large-scale dataset for face analysis. It consists of three sub-d
 ## EDFace-Celeb-1M (BFR128) : Blind Face Restoration (HQ, LQ: Blur, JPEG artifact, Noise, SR, Full, Full_X2, Full_X4, Full_X8)
 
 #### Download
-- [Google Drive](https://drive.google.com/drive/folders/1fzTNHjFh-RIt8N8jWfRquSr8xRDiiW95?usp=sharing)
-- [Baidu Cloud](https://pan.baidu.com/s/1JZoDmluwBT2OiLt-OGSxPQ) (password:yjfz)
+- [Google Drive](https://drive.google.com/drive/folders/1lrm3JZylPpVn9CBMae8HDe_HFQ8O_6E4?usp=sharing)
+- [Baidu Cloud](https://pan.baidu.com/s/154OSXc1iSZj9dew01USy-w?pwd=7cd1) 
 
 #### Citation:
 - [EDFace-Celeb-1M: Benchmarking Face Hallucination with a Million-scale Dataset (TPAMI2022)](https://arxiv.org/abs/2110.05031)
@@ -79,7 +79,7 @@ We construct a large-scale dataset for face analysis. It consists of three sub-d
 
 #### Download
 - [Google Drive](https://drive.google.com/drive/folders/1B3pba2rKUsyoppHOCMx0vmpNuSafKwj3?usp=sharing)
-- [Baidu Cloud](https://pan.baidu.com/s/1PzPkZUZxDTCgIIfIGixZiA) (password:67it)
+- [Baidu Cloud](https://pan.baidu.com/s/1HwBvJh1WTpVvXa-fABtWGg?pwd=ovbs)
 
 #### Citation:
 - [EDFace-Celeb-1M: Benchmarking Face Hallucination with a Million-scale Dataset (TPAMI2022)](https://arxiv.org/abs/2110.05031)
