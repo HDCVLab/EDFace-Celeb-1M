@@ -5,7 +5,7 @@
 
 ## Homepage
 
-<font color='red'> We add the homepage of our dataset, you can visit [here](https://zhangkaihao.github.io/projects/EDface/). </font>
+<span style="color:red;"> We add the homepage of our dataset, you can visit [here](https://zhangkaihao.github.io/projects/EDface/). </span>
 
 ## License
 
