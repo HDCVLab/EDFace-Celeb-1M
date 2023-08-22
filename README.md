@@ -5,7 +5,7 @@
 
 ## Homepage
 
-We add the homepage of our dataset, you can visit [here](https://zhangkaihao.github.io/projects/EDface/).
+**We add the homepage of our dataset, you can visit [here](https://zhangkaihao.github.io/projects/EDface/).**
 
 ## License
 
