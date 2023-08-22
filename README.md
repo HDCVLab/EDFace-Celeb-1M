@@ -5,7 +5,8 @@
 
 ## Homepage
 
-We add the homepage of our dataset, you can visit [here](https://zhangkaihao.github.io/projects/EDface/).
+<font color='red'> We add the homepage of our dataset, you can visit [here](https://zhangkaihao.github.io/projects/EDface/). </font>
+
 ## License
 
 The EDFace-Celeb dataset is released under [CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/) license.
